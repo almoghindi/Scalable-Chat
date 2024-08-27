@@ -39,46 +39,46 @@ This project is a scalable real-time chat application built using modern web tec
 ### Installation
 
 1. **Clone the repository:**
-   ```bash
-       git clone https://github.com/yourusername/socketio-chat-app.git
-       cd socketio-chat-app
-    ```
+```bash
+git clone https://github.com/yourusername/socketio-chat-app.git
+cd socketio-chat-app
+```
 
 2. **Install backend dependencies:**
-   ```bash
-       cd backend
-       npm install
-    ```
+```bash
+cd backend
+npm install
+```
 
 3.**Install frontend dependencies:**
-  ```bash
-    cd ../fronten
-    npm install
-   ```
+```bash
+cd ../fronten
+npm install
+```
 
 4.**Configure Environment Variables: Create a .env file in the backend directory and add the following:**
-  ```bash
-    PORT=3001
-    REDIS_HOST=localhost
-    REDIS_PORT=6379
-    KAFKA_BROKER=localhost:9092
-    POSTGRES_HOST=localhost
-    POSTGRES_PORT=5432
-    POSTGRES_DB=chatapp
-    POSTGRES_USER=youruser
-    POSTGRES_PASSWORD=yourpassword
-   ```
+```bash
+PORT=3001
+REDIS_HOST=localhost
+REDIS_PORT=6379
+KAFKA_BROKER=localhost:9092
+POSTGRES_HOST=localhost
+POSTGRES_PORT=5432
+POSTGRES_DB=chatapp
+POSTGRES_USER=youruser
+POSTGRES_PASSWORD=yourpassword
+```
 
 # Running the Application
 
 5. **Clone the repository:**
-   ```bash
-       cd backend
-       npm start
-    ```
+```bash
+cd backend
+npm start
+```
 
 6. **Install backend dependencies:**
-   ```bash
-       cd backend
-       npm start
-    ```
+```bash
+cd backend
+npm start
+```
