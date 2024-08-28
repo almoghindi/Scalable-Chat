@@ -23,7 +23,7 @@ This project is a scalable real-time chat application built using modern web tec
 
 ### Frontend
 
-- **React**: JavaScript library for building user interfaces.
+- **Next.js**: JavaScript library for building user interfaces.
 - **TypeScript**: Superset of JavaScript that adds static typing.
 - **Tailwind CSS**: Utility-first CSS framework for styling.
 - **Shadcn**: Component library for a consistent UI.
